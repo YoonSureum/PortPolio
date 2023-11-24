@@ -2,13 +2,13 @@
 
 </br>
 
-## :pushpin: About me
+## :pushpin: About Me
 - 호서대학교 정보통신공학부(정보통신공학) 졸업예정
 - CU편의점 호서대 정문점 알바 약 1년 가량
-- 호서대학교 영화학술동아리 시나브로 18년도 회장 역임
+- 호서대학교 영화학술동아리 시나브로 30기 18년도 회장 역임
 - 인공지능을 활용한 지능형 서비스 개발 자바풀스택 과정(모블교육센터 평생교육원) 수료
 - <자격증 획득>     
-Microsoft Office PowerPoint 2010, Microsoft Office PowerPoint 2010, 1종 보통 운전면허
+Microsoft Office Excel 2010, Microsoft Office PowerPoint 2010, 1종 보통 운전면허
 - <보유 기술>    
 Python, C, JAVA, Oracle, Excel, PowerPoint, Visual Studio, JupyterNotebook, Machine Learning, anaconda
 
