@@ -34,7 +34,6 @@ Python, C, JAVA, Oracle, Excel, PowerPoint, Visual Studio, JupyterNotebook, Mach
                     
 ==========================================================================
 
-## :pushpin: Projects
 ### 2. [Java를 사용한 블랙잭 프로그램]
 - Java를 사용하여 기본적인 룰을 활용하는 카드게임인 블랙잭 프로그램 구현
 - 개발 기간 : 2023.07.03 ~ 2023.07.07     
@@ -46,7 +45,6 @@ Python, C, JAVA, Oracle, Excel, PowerPoint, Visual Studio, JupyterNotebook, Mach
                     
 ===========================================================================
 
-## :pushpin: Projects
 ### 3. [C언어와 라즈베리파이를 사용한 단계조절 스탠드]
 - 라즈베리 파이와 LED를 사용한 단계조절 스탠드
 - 개발 기간 : 2023. 05 ~ 2023. 06
